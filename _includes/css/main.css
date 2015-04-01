@@ -130,7 +130,7 @@ hr.star-primary,
 hr.paper-primary,
 hr.plane-primary,
 hr.rocket-primary,
-hr.shuttle-primary, {
+hr.shuttle-primary {
     border-color: #{{ site.color.secondary }};
 }
 
@@ -138,9 +138,9 @@ hr.star-primary:after,
 hr.paper-primary:after,
 hr.plane-primary:after,
 hr.rocket-primary:after,
-hr.shuttle-primary:after, {
-    color: #{{ site.color.secondary }};
+hr.shuttle-primary:after {
     background-color: #fff;
+    color: #{{ site.color.secondary }};
 }
 
 .img-centered {
