@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trigger My Idea</title>
+    <description>Trigger My Idea is a platform for budding entrepreneurial minds to share their ideas, meet like-minded students, brainstorm and innovate.</description>
+    <link>https://example.github.io/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 03 Apr 2015 07:19:07 +0530</pubDate>
+    <lastBuildDate>Fri, 03 Apr 2015 07:19:07 +0530</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Vivek Jonnalagadda</title>
+        <description>Vivek is a final year Business Management Student at Newcastle University</description>
+        <pubDate>Wed, 04 Mar 2015 00:00:00 +0530</pubDate>
+        <link>https://example.github.io/planning/2015/03/04/vivek-jonnalagadda/</link>
+        <guid isPermaLink="true">https://example.github.io/planning/2015/03/04/vivek-jonnalagadda/</guid>
+        
+        
+        <category>planning</category>
+        
+      </item>
+    
+      <item>
+        <title>Vatsav Varma</title>
+        <description>Vatsav is a second year Business Management Student at Symbiosis, Pune</description>
+        <pubDate>Sun, 01 Mar 2015 00:00:00 +0530</pubDate>
+        <link>https://example.github.io/ideation/2015/03/01/vatsav-varma/</link>
+        <guid isPermaLink="true">https://example.github.io/ideation/2015/03/01/vatsav-varma/</guid>
+        
+        
+        <category>ideation</category>
+        
+      </item>
+    
+      <item>
+        <title>Viraat Aryabumi</title>
+        <description>&lt;a href=&quot;viraataryabum.info&quot;&gt;Viraat&lt;/a&gt; is a 3rd year IT Student at CBIT, Osmania University, Hyderabad.</description>
+        <pubDate>Sun, 01 Feb 2015 00:00:00 +0530</pubDate>
+        <link>https://example.github.io/execution/2015/02/01/viraat-aryabumi/</link>
+        <guid isPermaLink="true">https://example.github.io/execution/2015/02/01/viraat-aryabumi/</guid>
+        
+        
+        <category>execution</category>
+        
+      </item>
+    
+  </channel>
+</rss>
